@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { Context } from "../store/appContext";
 
-const Collection = () => {
+const Orders = () => {
     return (
         <div>
             
@@ -12,4 +12,4 @@ const Collection = () => {
 
 }
 
-export default Collection
+export default Orders
